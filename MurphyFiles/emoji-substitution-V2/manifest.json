@@ -5,8 +5,7 @@
   "homepage_url": "https://github.com/mdn/webextensions-examples/tree/master/emoji-substitution",
   "version": "1.0",
   "icons": {
-    "48": "icons/icon.png",
-    "96": "icons/icon@2x.png"
+    "48": "icons/EdgeLogo.png"
   },
   "options_ui": {
       "page": "options.html",
