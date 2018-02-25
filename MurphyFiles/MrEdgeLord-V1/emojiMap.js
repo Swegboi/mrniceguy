@@ -76,7 +76,9 @@ dictionary.set('man', 'dickbutt');
 dictionary.set('bff', 'cocksucker');
 dictionary.set('carry on', 'kys');
 
+
 dictionary.set(' the ', ' the fucking ');
+dictionary.set(' a ', ' a damn ');
 
 /*
 //bad to good

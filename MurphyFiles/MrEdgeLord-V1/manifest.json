@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "MrEdgeLord",
+  "description": "Replaces good words with bad words",
+  "homepage_url": "https://github.com/mdn/webextensions-examples/tree/master/emoji-substitution",
+  "version": "0.8",
+  "icons": {
+    "48": "icons/EdgeLogo.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["./emojiMap.js", "./substitute.js"]
+    }
+  ]
+}

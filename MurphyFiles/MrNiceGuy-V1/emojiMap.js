@@ -51,7 +51,7 @@ document.querySelector("form").addEventListener("submit", saveOptions);
 //Good to Bad
 let dictionary = new Map();
 
-
+/*
 dictionary.set('nice', 'shit');
 dictionary.set('great job', 'fuckface');
 dictionary.set('penis', 'big willy');
@@ -75,10 +75,8 @@ dictionary.set('liberal', 'treehugger');
 dictionary.set('man', 'dickbutt');
 dictionary.set('bff', 'cocksucker');
 dictionary.set('carry on', 'kys');
+*/
 
-dictionary.set(' the ', ' the fucking ');
-
-/*
 //bad to good
 dictionary.set('shit', 'nice');
 dictionary.set('fuckface', 'great job');
@@ -102,7 +100,7 @@ dictionary.set('treehugger', 'liberal');
 dictionary.set('dickbutt', 'man');
 dictionary.set('cocksucker', 'bff');
 dictionary.set('kys', 'carry on');
-*/
+
 
 
 
