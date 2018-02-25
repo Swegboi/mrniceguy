@@ -21,23 +21,33 @@ function incrementValue()
 
 function saveOptions(e) {
   browser.storage.sync.set({
-    colour: document.querySelector("#colour").value
-  });
-  
+    mode: document.querySelector("#mode").value,
+	colour: document.querySelector("#colour").value
+  }); 
   
   browser.storage.local
   
   e.preventDefault();
 }
 function restoreOptions() {
+  var storageItem2 = browser.storage.managed.get('mode');
   var storageItem = browser.storage.managed.get('colour');
   storageItem.then((res) => {
     document.querySelector("#managed-colour").innerText = res.colour;
+	//document.querySelector("#managed-mode").innerText = res.mode;
+  });
+  storageItem2.then((res) => {
+    //document.querySelector("#managed-colour").innerText = res.colour;
+	document.querySelector("#managed-mode").innerText = res.mode;
   });
 
+  var gettingItem2 = browser.storage.sync.get('mode');
   var gettingItem = browser.storage.sync.get('colour');
   gettingItem.then((res) => {
-    document.querySelector("#colour").value = res.colour || 'Firefox red';
+    document.querySelector("#colour").value = res.colour || 'Firefox red';	
+  });
+  gettingItem2.then((res) => {
+	document.querySelector("#mode").value = res.mode;	
   });
 }
 

@@ -25,10 +25,22 @@
 		
 		
 		<p>storage.managed colour: <b id="managed-colour">no value found</b></p>
-		  <form>
-			  <label>Favourite colour</label>
-			  <input type="text" id="colour" >
-			  <button type="submit">Save</button>
+		<form>
+			<label>Favourite colour</label>
+			<input type="text" id="colour" >
+			<button type="submit">Save</button>
+		</form>
+		
+		<!--
+		<radiogroup id="addOnMode" value=1>
+			<radio lable="ChildMode" tooltiptext="No Swearing">
+			<radio lable="EdgeLordMode" tooltiptext="More Swearing">
+		</radiogroup>
+		-->
+		
+		<form action="">
+		  <input type="radio" name="mode" value="child" id="mode"> Child Mode<br>
+		  <input type="radio" name="mode" value="edge" id="mode"> Edge Lord Mode<br>
 		</form>
 		
 		<script src="emojiMap.js"></script>
