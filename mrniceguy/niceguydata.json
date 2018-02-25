@@ -1,0 +1,560 @@
+{
+  "words": [
+    {
+      "name": "nice",
+      "type": "good",
+      "pair": "shit"
+    },
+    {
+      "name": "shit",
+      "type": "bad",
+      "pair":"nice"
+    },
+    {
+      "name": "great job",
+      "type": "good",
+      "pair": "fuckface"
+    },
+    {
+      "name": "fuckface",
+      "type": "bad",
+      "pair": "great job"
+    },
+    {
+      "name": "penis",
+      "type": "good",
+      "pair": "dick"
+    },
+    {
+      "name": "dick",
+      "type": "bad",
+      "pair": "penis"
+    },
+    {
+      "name": "freedom",
+      "type": "good",
+      "pair": "communism"
+    },
+    {
+      "name": "communism",
+      "type": "bad",
+      "pair": "freedom"
+    },
+    {
+      "name": "lovely day we're having",
+      "type": "good",
+      "pair": "fuck"
+    },
+    {
+      "name": "fuck",
+      "type": "bad",
+      "pair": "lovely day we're having"
+    },
+    {
+      "name": "bloody brilliant",
+      "type": "good",
+      "pair": "headass"
+    },
+    {
+      "name": "headass",
+      "type": "bad",
+      "pair": "bloody brilliant"
+    },
+    {
+      "name": "backside of wonder",
+      "type": "good",
+      "pair": "ass"
+    },
+    {
+      "name": "ass",
+      "type": "bad",
+      "pair": "backside of wonder"
+    },
+    {
+      "name": "nice lady",
+      "type": "good",
+      "pair": "cunt"
+    },
+    {
+      "name": "cunt",
+      "type": "bad",
+      "pair": "nicelady"
+    },
+    {
+      "name": "what a saddening misfortunate of events",
+      "type": "good",
+      "pair": "damn"
+    },
+    {
+      "name": "damn",
+      "type": "bad",
+      "pair": "what a saddening misfortunate of events"
+    },
+    {
+      "name": "good time",
+      "type": "good",
+      "pair": "assfuck"
+    },
+    {
+      "name": "assfuck",
+      "type": "bad",
+      "pair": "good time"
+    },
+    {
+      "name": "goodjobk",
+      "type": "good",
+      "pair": "fuckface"
+    },
+    {
+      "name": "fuckface",
+      "type": "bad",
+      "pair": "great job"
+    },
+    {
+      "name": "great job",
+      "type": "good",
+      "pair": "fuckface"
+    },
+    {
+      "name": "fuckface",
+      "type": "bad",
+      "pair": "great job"
+    },
+    {
+      "name": "great job",
+      "type": "good",
+      "pair": "fuckface"
+    },
+    {
+      "name": "fuckface",
+      "type": "bad",
+      "pair": "great job"
+    },
+    {
+      "name": "great job",
+      "type": "good",
+      "pair": "fuckface"
+    },
+    {
+      "name": "fuckface",
+      "type": "bad",
+      "pair": "great job"
+    },
+    {
+      "name": "great job",
+      "type": "good",
+      "pair": "fuckface"
+    },
+    {
+      "name": "fuckface",
+      "type": "bad",
+      "pair": "great job"
+    },
+    {
+      "name": "great job",
+      "type": "good",
+      "pair": "fuckface"
+    },
+    {
+      "name": "fuckface",
+      "type": "bad",
+      "pair": "great job"
+    },
+    {
+      "name": "great job",
+      "type": "good",
+      "pair": "fuckface"
+    },
+    {
+      "name": "fuckface",
+      "type": "bad",
+      "pair": "great job"
+    },
+    {
+      "name": "great job",
+      "type": "good",
+      "pair": "fuckface"
+    },
+    {
+      "name": "fuckface",
+      "type": "bad",
+      "pair": "great job"
+    },
+    {
+      "name": "great job",
+      "type": "good",
+      "pair": "fuckface"
+    },
+    {
+      "name": "fuckface",
+      "type": "bad",
+      "pair": "great job"
+    },
+    {
+      "name": "great job",
+      "type": "good",
+      "pair": "fuckface"
+    },
+    {
+      "name": "fuckface",
+      "type": "bad",
+      "pair": "great job"
+    },
+    {
+      "name": "great job",
+      "type": "good",
+      "pair": "fuckface"
+    },
+    {
+      "name": "fuckface",
+      "type": "bad",
+      "pair": "great job"
+    },
+    {
+      "name": "great job",
+      "type": "good",
+      "pair": "fuckface"
+    },
+    {
+      "name": "fuckface",
+      "type": "bad",
+      "pair": "great job"
+    },
+    {
+      "name": "great job",
+      "type": "good",
+      "pair": "fuckface"
+    },
+    {
+      "name": "fuckface",
+      "type": "bad",
+      "pair": "great job"
+    },
+    {
+      "name": "great job",
+      "type": "good",
+      "pair": "fuckface"
+    },
+    {
+      "name": "fuckface",
+      "type": "bad",
+      "pair": "great job"
+    },
+    {
+      "name": "great job",
+      "type": "good",
+      "pair": "fuckface"
+    },
+    {
+      "name": "fuckface",
+      "type": "bad",
+      "pair": "great job"
+    },
+    {
+      "name": "great job",
+      "type": "good",
+      "pair": "fuckface"
+    },
+    {
+      "name": "fuckface",
+      "type": "bad",
+      "pair": "great job"
+    },
+    {
+      "name": "great job",
+      "type": "good",
+      "pair": "fuckface"
+    },
+    {
+      "name": "fuckface",
+      "type": "bad",
+      "pair": "great job"
+    },
+    {
+      "name": "great job",
+      "type": "good",
+      "pair": "fuckface"
+    },
+    {
+      "name": "fuckface",
+      "type": "bad",
+      "pair": "great job"
+    },
+    {
+      "name": "great job",
+      "type": "good",
+      "pair": "fuckface"
+    },
+    {
+      "name": "fuckface",
+      "type": "bad",
+      "pair": "great job"
+    },
+    {
+      "name": "great job",
+      "type": "good",
+      "pair": "fuckface"
+    },
+    {
+      "name": "fuckface",
+      "type": "bad",
+      "pair": "great job"
+    },
+    {
+      "name": "great job",
+      "type": "good",
+      "pair": "fuckface"
+    },
+    {
+      "name": "fuckface",
+      "type": "bad",
+      "pair": "great job"
+    },
+    {
+      "name": "great job",
+      "type": "good",
+      "pair": "fuckface"
+    },
+    {
+      "name": "fuckface",
+      "type": "bad",
+      "pair": "great job"
+    },
+    {
+      "name": "great job",
+      "type": "good",
+      "pair": "fuckface"
+    },
+    {
+      "name": "fuckface",
+      "type": "bad",
+      "pair": "great job"
+    },
+    {
+      "name": "great job",
+      "type": "good",
+      "pair": "fuckface"
+    },
+    {
+      "name": "fuckface",
+      "type": "bad",
+      "pair": "great job"
+    },
+    {
+      "name": "great job",
+      "type": "good",
+      "pair": "fuckface"
+    },
+    {
+      "name": "fuckface",
+      "type": "bad",
+      "pair": "great job"
+    },
+    {
+      "name": "great job",
+      "type": "good",
+      "pair": "fuckface"
+    },
+    {
+      "name": "fuckface",
+      "type": "bad",
+      "pair": "great job"
+    },
+    {
+      "name": "great job",
+      "type": "good",
+      "pair": "fuckface"
+    },
+    {
+      "name": "fuckface",
+      "type": "bad",
+      "pair": "great job"
+    },
+    {
+      "name": "great job",
+      "type": "good",
+      "pair": "fuckface"
+    },
+    {
+      "name": "fuckface",
+      "type": "bad",
+      "pair": "great job"
+    },
+    {
+      "name": "great job",
+      "type": "good",
+      "pair": "fuckface"
+    },
+    {
+      "name": "fuckface",
+      "type": "bad",
+      "pair": "great job"
+    },
+    {
+      "name": "great job",
+      "type": "good",
+      "pair": "fuckface"
+    },
+    {
+      "name": "fuckface",
+      "type": "bad",
+      "pair": "great job"
+    },
+    {
+      "name": "great job",
+      "type": "good",
+      "pair": "fuckface"
+    },
+    {
+      "name": "fuckface",
+      "type": "bad",
+      "pair": "great job"
+    },
+    {
+      "name": "great job",
+      "type": "good",
+      "pair": "fuckface"
+    },
+    {
+      "name": "fuckface",
+      "type": "bad",
+      "pair": "great job"
+    },
+    {
+      "name": "great job",
+      "type": "good",
+      "pair": "fuckface"
+    },
+    {
+      "name": "fuckface",
+      "type": "bad",
+      "pair": "great job"
+    },
+    {
+      "name": "great job",
+      "type": "good",
+      "pair": "fuckface"
+    },
+    {
+      "name": "fuckface",
+      "type": "bad",
+      "pair": "great job"
+    },
+    {
+      "name": "great job",
+      "type": "good",
+      "pair": "fuckface"
+    },
+    {
+      "name": "fuckface",
+      "type": "bad",
+      "pair": "great job"
+    },
+    {
+      "name": "great job",
+      "type": "good",
+      "pair": "fuckface"
+    },
+    {
+      "name": "fuckface",
+      "type": "bad",
+      "pair": "great job"
+    },
+    {
+      "name": "great job",
+      "type": "good",
+      "pair": "fuckface"
+    },
+    {
+      "name": "fuckface",
+      "type": "bad",
+      "pair": "great job"
+    },
+    {
+      "name": "great job",
+      "type": "good",
+      "pair": "fuckface"
+    },
+    {
+      "name": "fuckface",
+      "type": "bad",
+      "pair": "great job"
+    },
+    {
+      "name": "great job",
+      "type": "good",
+      "pair": "fuckface"
+    },
+    {
+      "name": "fuckface",
+      "type": "bad",
+      "pair": "great job"
+    },
+    {
+      "name": "great job",
+      "type": "good",
+      "pair": "fuckface"
+    },
+    {
+      "name": "fuckface",
+      "type": "bad",
+      "pair": "great job"
+    },
+    {
+      "name": "whizkid",
+      "type": "good",
+      "pair": "asshat"
+    },
+    {
+      "name" : "asshat",
+      "type" : "bad",
+      "pair" :"whizkid"
+    },
+    {
+      "name" : "open-minded",
+      "type" : "good",
+      "pair" : "bumblefuck"
+    },
+    {
+      "name" : "bumblefuck",
+      "type" : "bad",
+      "pair" : "open-minded"
+    },
+    {
+      "name" : "genius",
+      "type" : "good",
+      "pair" : "dickhead"
+    },
+    {
+      "name" : "dickhead",
+      "type" : "bad",
+      "pair" : "genius"
+    },
+    {
+     "name" : "liberal",
+     "type" : "good",
+     "pair" : "treehugger"
+   },
+   {
+     "name" : "treehugger",
+     "type" : "bad",
+     "pair" : "liberal"
+
+
+
+
+
+
+
+
+
+
+
+
+    }
+    {
+
+    }
+    {}
+  ]
+}

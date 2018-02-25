@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "Mr. Nice Guy",
+  "version": "1.0",
+
+  "description": "Replaces Good Words with Bad Words or the opposite to give you a fun or safe experience on the web.",
+
+  "icons": {
+    "niceguy": "./niceguy.png"
+  },
+
+  "browser_action": {
+    "default_icon": "",
+    "default_title": "Mr.Nice Guy",
+    "default_popup": "popup.html"
+  }
+}
