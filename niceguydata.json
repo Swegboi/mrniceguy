@@ -1,3 +1,24 @@
 {
-"pair1":["good", "bad"]},
-{"pair2":["nice", "shit"]}
+  "words": [
+    {
+      "name": "nice",
+      "type": "good",
+      "pair": "shit"
+    },
+    {
+      "name": "shit",
+      "type": "bad",
+      "pair":"nice"
+    },
+    {
+      "name": "great job",
+      "type": "good",
+      "pair": "fuckface"
+    },
+    {
+      "name": "fuckface",
+      "type": "bad",
+      "pair": "great job"
+    },
+  ]
+}
