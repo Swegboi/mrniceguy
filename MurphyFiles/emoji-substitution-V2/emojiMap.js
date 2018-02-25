@@ -22,14 +22,16 @@ function incrementValue()
 function saveOptions(e) {
   browser.storage.sync.set({
     mode: document.querySelector("#mode").value,
+	modeC: document.querySelector("#mode").checked,
 	colour: document.querySelector("#colour").value
   }); 
-  
+  console.log("Test");
   browser.storage.local
   
   e.preventDefault();
 }
 function restoreOptions() {
+  var storageItem3 = browser.storage.managed.get('modeC');
   var storageItem2 = browser.storage.managed.get('mode');
   var storageItem = browser.storage.managed.get('colour');
   storageItem.then((res) => {
@@ -40,7 +42,12 @@ function restoreOptions() {
     //document.querySelector("#managed-colour").innerText = res.colour;
 	document.querySelector("#managed-mode").innerText = res.mode;
   });
+  storageItem3.then((res) => {
+    //document.querySelector("#managed-colour").innerText = res.colour;
+	document.querySelector("#managed-modeC").innerText = res.modeC;
+  });
 
+  var gettingItem3 = browser.storage.sync.get('modeC');
   var gettingItem2 = browser.storage.sync.get('mode');
   var gettingItem = browser.storage.sync.get('colour');
   gettingItem.then((res) => {
@@ -49,7 +56,12 @@ function restoreOptions() {
   gettingItem2.then((res) => {
 	document.querySelector("#mode").value = res.mode;	
   });
+  gettingItem3.then((res) => {
+	document.querySelector("#mode").checked = res.modeC;	
+  });
 }
+
+
 
 document.addEventListener('DOMContentLoaded', restoreOptions);
 document.querySelector("form").addEventListener("submit", saveOptions);
